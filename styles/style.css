@@ -1,0 +1,44 @@
+.work-sans-normal{
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+/* shared styles */
+.btn{
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: 0px;
+    font-size: 20px;
+    color:#FFFFFF ;
+    padding: 25px;
+    
+}
+ 
+/* header styles-part */
+.banner{
+      display: flex;
+      position: relative;
+      text-align:right;
+    
+      
+      }
+.banner-content{
+    position:absolute;
+    top: 250px;
+    /* bottom: 0px; */
+    padding-left: 450px;
+   
+}
+.banner-title{
+    font-size: 65px;
+    margin-top: 35px; 
+}
+.banner-description{
+    font-size: 16px;
+    margin-bottom:35px;
+}
+
+
+
+ 
