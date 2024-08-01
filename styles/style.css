@@ -81,4 +81,15 @@
 .skill-item{
     
 }
+.img-watch{
+    position: relative;
+    text-align: center;
+    margin-top: 45px; 
+}
+.main-image{
+    position: absolute;
+}
+.overlay-image{
+    position:relative;  
+}
 
